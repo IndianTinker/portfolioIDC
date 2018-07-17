@@ -7,7 +7,7 @@ This space documents the works of present and past graduates.
 
 2016-2018 Batch
 ----
-**Animation and Film Design** | **Interaction Design** | **Industrial Design** | **Mobility and Vehicle Design** | **Communication Design** |
+|**Animation and Film Design** | **Interaction Design** | **Industrial Design** | **Mobility and Vehicle Design** | **Communication Design** |
 |---------------------------|--------------------|-------------------|-----------------------------|----------------------|
 | [Navodit Mandal](http://www.behance.net/navodit)            |                    |                   |                             |                      |
 | [Irshad Ahmad Ansari](http://www.behance.net/irshu0786aa8ad)                          |                    |                   |                             |                      |
