@@ -5,7 +5,30 @@ The IDC School of Design is one of the top design schools in the country and amo
 
 This space documents the works of present and past graduates. 
 
-2017-2019 Batch
+
+2018-2020 M.Des Batch
+----
+
+| **Interaction Design**      | **Industrial Design**        | **Animation Design**      | **Mobility and Vehicle Design** | **Communication Design**         |
+|-------------------------|--------------------------|-----------------------|-----------------------------|------------------------------|
+| Aisha Anam              | Gaurav Nandan            | Snehal Raju Dongre    | Suryansh                    | Apoorva Lalit                |
+| Gauri Sachin Tillu      | Ashish Negi              | Abhishek Kuru         | Sourabh Ramesh Salke        | Prateek Nitin Ghore          |
+| Dhiraj Sharadrao Dethe  | Abhinav Saxena           | Ambika Gautam         | Shubham Mehta               | Abhijath Ajay                |
+| Rishi Rama Rao Vanukuru | Arnav Bhagawati          | Annie Jerry           | Yogesh Kumar                | Utkarsh                      |
+| Akshay Rajesh Patil     | Abhishek Jaiswal         | Arnav Roy Choudhury   | Arun Babu                   | Naveen Kumar                 |
+| Mayura Madhusudan Datar | P Theertha Suresh        | Sumit Wamanrao Chavan | Vinay Avinash Kulkarni      | Pascal Mario Kmenlang Pathaw |
+| Rashmi Kumari           | Akash Singh              | Savithri M            | Rajat Prakash Kushwaha      | Harmeet Kaur                 |
+| Shraddha Madhu Dhodi    | Chitranshu Verma         | Dipantor Talukdar     | Aiyappa K S                 | Niharika Kapil               |
+| Gyan Lakhwani           | Sumit Ranjan Kumar       | Sooryaprakash         | Sibananda Sahoo             | Sreedevi Jyothis             |
+| Himani Abhay Deshpande  | Yasir Mazhar             | Ramya Ankilla         | Vishal Sharma               | Nikhil Ashokrao Muthal       |
+| Amit Kumar              | Nikhil Pramod Dhamnaskar | Lipi Gupta            |                             | Brototi Mondal               |
+| Bhawna                  | Akash Nagsen Ganvir      |                       |                             | Amogh Inamdar                |
+|                         | Samanda Nora Pyngrope    |                       |                             | Anu Sankar S                 |
+|                         | Kondaveeti Sri Navya     |                       |                             | Suraj S Kendre               |
+
+
+
+2017-2019 M.Des Batch
 -----
 | **Interaction Design**                                   | **Industrial Design**                                                | **Animation Design**                                      | **Mobility and Vehicle Design**                               | **Communication Design**                                         |
 |-------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
@@ -26,8 +49,19 @@ This space documents the works of present and past graduates.
 |                                                       |                                                                  |                                                       |                                                           | Siddharth A                                                  |
 
 
+2015-2019 B.Des Batch
+---
+|                              |                       |       **B.Des programme**       |                      |                        |
+|:----------------------------:|:---------------------:|:---------------------------:|:--------------------:|:----------------------:|
+| Shanghag Maulashree Bhooshan | Jazeel Ameen N K      | Bhogaonkar Chinmay Ravindra | Vyom Kushwaha        | Divyansh Markam        |
+| Bhagwat Samarth Aniruddha    | Virat Sharma          | Sujay Kumar                 | Harshit Pratap Singh | Riddhi Tomar           |
+| Nevil Hitesh                 | Dhruva Vijayaraghavan | Jessica Saggu               | Vedaant Raj Bangotra | Samant Athang Yogendra |
+| Anagha S Rao                 | Avyay R Kashyap       | Ankit Anand                 | Satyendra Narayan    | Rohan Jhunja           |
+| Yugandhara Suren Hiray       | Ishan Sharma          | Raman Yadav                 | Aishwary Khobragade  | Morris Hermon          |
+| Shubhankar Biswas            | Raaghav Verma         | Prajakta S Dharmadhikari    | Priyank Sagar        | Urmi Banerjee          |
 
-2016-2018 Batch
+
+2016-2018 M.Des Batch
 ----
 | **Interaction Design**                                         | **Industrial Design**                                         | **Animation Design**                                          | **Mobility and Vehicle Design**                           | **Communication Design**                                      |
 |------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|
