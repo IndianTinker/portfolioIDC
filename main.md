@@ -5,6 +5,28 @@ The IDC School of Design is one of the top design schools in the country and amo
 
 This space documents the works of present and past graduates. 
 
+2017-2019 Batch
+-----
+| **Interaction Design**                                   | **Industrial Design**                                                | **Animation Design**                                      | **Mobility and Vehicle Design**                               | **Communication Design**                                         |
+|-------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
+| Kuldeep Singh Rathod                                  | Sukanta Maharana                                                 | Eshwar Kumar Bikshapathy Ganta                        | Onkar Khot                                                | Anshul Srivastava                                            |
+| Supriya Dutta                                         | Minal Agarwal                                                    | [Anindita Mondal](https://anindita24.artstation.com/) | [Niketh Sj](https://www.behance.net/nikethsj)             | Ishu Kardam                                                  |
+| Jonathan Joseph Mathew                                | Mridul Jain                                                      | Tamal Saha                                            | Roshan Kumar Sahu                                         | Tejus Nagdev                                                 |
+| Thuli N Chishi                                        | Maddu Shravan Murali                                             | [Abhishek Soni](https://www.behance.net/rudrabhishek) | Nipurn Solanki                                            | Nandini Bhosale                                              |
+| Shikha Verma                                          | Apurba Mondal                                                    | Divakar Sakkarapani Kuppan                            | Anshuman Dixit                                            | Priyanka Purty                                               |
+| Vishnu K                                              | [Rajat Patle](https://www.behance.net/rajatatbehc564)            | Harikrishnan S                                        | Sunil                                                     | Shivani Nayak                                                |
+| Enlin Quental                                         | Saijith M S                                                      | Meera Behera                                          | Srinag K A                                                | Prem Sonar                                                   |
+| Kiran Prasanth R                                      | P Sri Hari                                                       | [Deepam Jain](https://www.behance.net/JainDeepam)     | Mahesh R S                                                | Rajesh P                                                     |
+| Annu                                                  | Nirmal P J                                                       | Abhilash Saxena                                       | [Parthkumar Chaudhari](https://www.behance.net/ardhviram) | [Sanket Gonte](https://www.behance.net/sanketgk955328)       |
+| Angela Riang Simon                                    | Archana Sonavane                                                 | Shweta Inamdar                                        | Samyak Khobragade                                         | Mrinal Biswas                                                |
+| [Parth Kapadia](https://www.behance.net/parthkapadia) | Minu                                                             | Alok Hasnu                                            |                                                           | Mayur Chaure                                                 |
+| Ridhima Tapia                                         | Anushree Banerjee                                                |                                                       |                                                           | Unmesh Nayak                                                 |
+|                                                       | [Vinod Louis Joseph Swamy](https://www.behance.net/vinodljswamy) |                                                       |                                                           | [Harshita Bandodkar](https://www.behance.net/harshitaba0e55) |
+|                                                       | Nikita Fatarpekar                                                |                                                       |                                                           | Hassan Kumar Gundu                                           |
+|                                                       |                                                                  |                                                       |                                                           | Siddharth A                                                  |
+
+
+
 2016-2018 Batch
 ----
 | **Interaction Design**                                         | **Industrial Design**                                         | **Animation Design**                                          | **Mobility and Vehicle Design**                           | **Communication Design**                                      |
@@ -24,3 +46,7 @@ This space documents the works of present and past graduates.
 |                                                            | [Amey Damjee](https://www.behance.net/damjee)             |                                                           |                                                       | [Annie Roma Baa](https://www.behance.net/annie_roma_baa)  |
 |                                                            | [Akash Kumar Gupta](https://www.behance.net/aayanakash)   |                                                           |                                                       | [Anuja More](https://www.behance.net/anujamore)           |
 |                                                            | [Anshul Patle](https://www.behance.net/anshulpatle)       |                                                           |                                                       | Santanu Dutta                                             |
+
+
+
+
