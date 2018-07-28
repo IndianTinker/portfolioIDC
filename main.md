@@ -5,9 +5,10 @@ The IDC School of Design is one of the top design schools in the country and amo
 
 This space documents the works of present and past graduates. 
 
-
-2018-2020 M.Des Batch
+M.Des Batches
 ----
+
+### 2018-2020 M.Des Batch
 
 | **Interaction Design**      | **Industrial Design**        | **Animation Design**      | **Mobility and Vehicle Design** | **Communication Design**         |
 |-------------------------|--------------------------|-----------------------|-----------------------------|------------------------------|
@@ -28,8 +29,8 @@ This space documents the works of present and past graduates.
 
 
 
-2017-2019 M.Des Batch
------
+### 2017-2019 M.Des Batch
+
 | **Interaction Design**                                   | **Industrial Design**                                                | **Animation Design**                                      | **Mobility and Vehicle Design**                               | **Communication Design**                                         |
 |-------------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|--------------------------------------------------------------|
 | Kuldeep Singh Rathod                                  | Sukanta Maharana                                                 | Eshwar Kumar Bikshapathy Ganta                        | Onkar Khot                                                | Anshul Srivastava                                            |
@@ -49,20 +50,8 @@ This space documents the works of present and past graduates.
 |                                                       |                                                                  |                                                       |                                                           | Siddharth A                                                  |
 
 
-2015-2019 B.Des Batch
----
-|                              |                       |       **B.Des programme**       |                      |                        |
-|:----------------------------:|:---------------------:|:---------------------------:|:--------------------:|:----------------------:|
-| Shanghag Maulashree Bhooshan | Jazeel Ameen N K      | Bhogaonkar Chinmay Ravindra | Vyom Kushwaha        | Divyansh Markam        |
-| Bhagwat Samarth Aniruddha    | Virat Sharma          | Sujay Kumar                 | Harshit Pratap Singh | Riddhi Tomar           |
-| Nevil Hitesh                 | Dhruva Vijayaraghavan | Jessica Saggu               | Vedaant Raj Bangotra | Samant Athang Yogendra |
-| Anagha S Rao                 | Avyay R Kashyap       | Ankit Anand                 | Satyendra Narayan    | Rohan Jhunja           |
-| Yugandhara Suren Hiray       | Ishan Sharma          | Raman Yadav                 | Aishwary Khobragade  | Morris Hermon          |
-| Shubhankar Biswas            | Raaghav Verma         | Prajakta S Dharmadhikari    | Priyank Sagar        | Urmi Banerjee          |
+### 2016-2018 M.Des Batch
 
-
-2016-2018 M.Des Batch
-----
 | **Interaction Design**                                         | **Industrial Design**                                         | **Animation Design**                                          | **Mobility and Vehicle Design**                           | **Communication Design**                                      |
 |------------------------------------------------------------|-----------------------------------------------------------|-----------------------------------------------------------|-------------------------------------------------------|-----------------------------------------------------------|
 | [Udayan Vidyanata](https://www.behance.net/udayanvidyanta) | [Aishwarya Mane](https://www.behance.net/Aishwarya_Mane)  | [Navodit Mandal](https://www.behance.net/navodit)         | [Siva Sankar](https://www.behance.net/siva493)        | [Mohit O.](https://www.behance.net/mohithO)               |
@@ -81,6 +70,17 @@ This space documents the works of present and past graduates.
 |                                                            | [Akash Kumar Gupta](https://www.behance.net/aayanakash)   |                                                           |                                                       | [Anuja More](https://www.behance.net/anujamore)           |
 |                                                            | [Anshul Patle](https://www.behance.net/anshulpatle)       |                                                           |                                                       | Santanu Dutta                                             |
 
+B.Des Batches
+---
+
+### 2015-2019 B.Des Batch
+
+| Shanghag Maulashree Bhooshan | Jazeel Ameen N K      | Bhogaonkar Chinmay Ravindra | Vyom Kushwaha        | Divyansh Markam        |
+| Bhagwat Samarth Aniruddha    | Virat Sharma          | Sujay Kumar                 | Harshit Pratap Singh | Riddhi Tomar           |
+| Nevil Hitesh                 | Dhruva Vijayaraghavan | Jessica Saggu               | Vedaant Raj Bangotra | Samant Athang Yogendra |
+| Anagha S Rao                 | Avyay R Kashyap       | Ankit Anand                 | Satyendra Narayan    | Rohan Jhunja           |
+| Yugandhara Suren Hiray       | Ishan Sharma          | Raman Yadav                 | Aishwary Khobragade  | Morris Hermon          |
+| Shubhankar Biswas            | Raaghav Verma         | Prajakta S Dharmadhikari    | Priyank Sagar        | Urmi Banerjee          |
 
 
 
