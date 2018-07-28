@@ -75,13 +75,12 @@ B.Des Batches
 
 ### 2015-2019 B.Des Batch
 
-| Shanghag Maulashree Bhooshan | Jazeel Ameen N K      | Bhogaonkar Chinmay Ravindra | Vyom Kushwaha        | Divyansh Markam        |
+|  |  |  |  |  |
 |------------------------------|-----------------------|-----------------------------|----------------------|------------------------|
-| Bhagwat Samarth Aniruddha    | Virat Sharma          | Sujay Kumar                 | Harshit Pratap Singh | Riddhi Tomar           |
-| Nevil Hitesh                 | Dhruva Vijayaraghavan | Jessica Saggu               | Vedaant Raj Bangotra | Samant Athang Yogendra |
-| Anagha S Rao                 | Avyay R Kashyap       | Ankit Anand                 | Satyendra Narayan    | Rohan Jhunja           |
-| Yugandhara Suren Hiray       | Ishan Sharma          | Raman Yadav                 | Aishwary Khobragade  | Morris Hermon          |
-| Shubhankar Biswas            | Raaghav Verma         | Prajakta S Dharmadhikari    | Priyank Sagar        | Urmi Banerjee          |
-
-
+| Shanghag Maulashree Bhooshan | Jazeel Ameen N K | Bhogaonkar Chinmay Ravindra | Vyom Kushwaha | Divyansh Markam |
+| Bhagwat Samarth Aniruddha | Virat Sharma | Sujay Kumar | Harshit Pratap Singh | Riddhi Tomar |
+| Nevil Hitesh | Dhruva Vijayaraghavan | Jessica Saggu | Vedaant Raj Bangotra | Samant Athang Yogendra |
+| Anagha S Rao | Avyay R Kashyap | Ankit Anand | Satyendra Narayan | Rohan Jhunja |
+| Yugandhara Suren Hiray | Ishan Sharma | Raman Yadav | Aishwary Khobragade | Morris Hermon |
+| Shubhankar Biswas | Raaghav Verma | Prajakta S Dharmadhikari | Priyank Sagar | Urmi Banerjee |
 
